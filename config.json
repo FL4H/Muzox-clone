@@ -1,20 +1,20 @@
 {
-  "prefix":"-",
+  "prefix":".",
   "db": "mongodb+srv://crex:crex@cluster0.u6zgok2.mongodb.net/crex",
-  "logs":"920657546988093501",
+  "logs":"1238386140562587679",
   "topgg": "",
     "embedColor": "#ffcb00",
     "links":{
 "bg": "https://media.discordapp.net/attachments/984799594787524668/990842585239130182/20220627_100911.jpg"
     },
  
-  "owner": ["803839409870602240","803839409870602240" , "803839409870602240", "803839409870602240","803839409870602240","803839409870602240","803839409870602240"],
+  "owner": ["1044855120992665630" , "", "",""],
   "Webhooks": {
-    "bot_error": "https://discord.com/api/webhooks/1057528925858844752/lJNa1cStiAgPCugPcYD4naL6UVWUv3uJ3V_QOtXsPg9J_DhtsrHznzxCAEgSwMJLEG16",
-    "db_error": "https://discord.com/api/webhooks/1057528925858844752/lJNa1cStiAgPCugPcYD4naL6UVWUv3uJ3V_QOtXsPg9J_DhtsrHznzxCAEgSwMJLEG16",
-    "webhook_error": "https://discord.com/api/webhooks/1057528925858844752/lJNa1cStiAgPCugPcYD4naL6UVWUv3uJ3V_QOtXsPg9J_DhtsrHznzxCAEgSwMJLEG16",
-    "server_add": "https://discord.com/api/webhooks/1057528925858844752/lJNa1cStiAgPCugPcYD4naL6UVWUv3uJ3V_QOtXsPg9J_DhtsrHznzxCAEgSwMJLEG16",
-    "server_remove": "https://discord.com/api/webhooks/1057528925858844752/lJNa1cStiAgPCugPcYD4naL6UVWUv3uJ3V_QOtXsPg9J_DhtsrHznzxCAEgSwMJLEG16"
+    "bot_error": "https://discord.com/api/webhooks/1239483047406075904/_hgQwnY5Kg_mpfvr_f9EwSOhRRpFTfNTejLQIFDV02G22CK39Hi4NUuqMnW3RnHCpopv",
+    "db_error": "https://discord.com/api/webhooks/1239483047406075904/_hgQwnY5Kg_mpfvr_f9EwSOhRRpFTfNTejLQIFDV02G22CK39Hi4NUuqMnW3RnHCpopv",
+    "webhook_error": "https://discord.com/api/webhooks/1239483047406075904/_hgQwnY5Kg_mpfvr_f9EwSOhRRpFTfNTejLQIFDV02G22CK39Hi4NUuqMnW3RnHCpopv",
+    "server_add": "https://discord.com/api/webhooks/1239483047406075904/_hgQwnY5Kg_mpfvr_f9EwSOhRRpFTfNTejLQIFDV02G22CK39Hi4NUuqMnW3RnHCpopv",
+    "server_remove": "https://discord.com/api/webhooks/1239483047406075904/_hgQwnY5Kg_mpfvr_f9EwSOhRRpFTfNTejLQIFDV02G22CK39Hi4NUuqMnW3RnHCpopv"
   },
   "nodes":[
     
