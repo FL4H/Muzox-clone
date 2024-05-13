@@ -19,9 +19,9 @@
   "nodes":[
     
   {
-      "name": "Nova Lavalink",
-      "host": "eu-lavalink.lexnet.cc",
-      "port": "443",
+      "name": "Lavalink",
+      "host": "lava.link",
+      "port": "80",
       "password": "lexn3tl@val!nk",
       "secure": true
   }
